@@ -1,0 +1,263 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/843739751",
+                "axle_load": "22.5",
+                "electrified": "contact_line",
+                "frequency": "50",
+                "gauge": "1668",
+                "highspeed": "no",
+                "loading_gauge": "CPb+",
+                "maxspeed": "30",
+                "metre_load": "8",
+                "name": "Linha do Norte - Via Ascendente",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "passenger_lines": "2",
+                "railway": "rail",
+                "railway:atc": "yes",
+                "railway:ballastless": "no",
+                "railway:ebicab": "700",
+                "railway:etcs": "no",
+                "railway:tilting": "no",
+                "railway:traffic_mode": "mixed",
+                "ref": "8",
+                "source": "https://servicos.infraestruturasdeportugal.pt/sites/default/files/inline-files/Diretorio%20da%20Rede%202024.pdf",
+                "source:maxspeed": "TVM",
+                "source:maxspeed:date": "2021-01-27",
+                "source:start_date": "https://hemerotecadigital.cm-lisboa.pt/OBRAS/GazetaCF/1956/N1652/N1652_master/GazetaCFN1652.pdf",
+                "start_date": "1856-10-28",
+                "tracks": "1",
+                "usage": "main",
+                "voltage": "25000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.10843949634,
+                        38.72002562991
+                    ],
+                    [
+                        -9.10807169634,
+                        38.72035981340
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/843365945",
+                "axle_load": "22.5",
+                "electrified": "contact_line",
+                "frequency": "50",
+                "gauge": "1668",
+                "highspeed": "no",
+                "loading_gauge": "CPb+",
+                "maxspeed": "30",
+                "metre_load": "8",
+                "name": "Linha do Norte - Via Ascendente",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "passenger_lines": "2",
+                "railway": "rail",
+                "railway:atc": "yes",
+                "railway:ballastless": "no",
+                "railway:ebicab": "700",
+                "railway:etcs": "no",
+                "railway:tilting": "no",
+                "railway:track_ref": "3",
+                "railway:traffic_mode": "mixed",
+                "ref": "8",
+                "source": "https://servicos.infraestruturasdeportugal.pt/sites/default/files/inline-files/Diretorio%20da%20Rede%202024.pdf",
+                "source:maxspeed": "TVM",
+                "source:maxspeed:date": "2021-01-27",
+                "source:start_date": "https://hemerotecadigital.cm-lisboa.pt/OBRAS/GazetaCF/1956/N1652/N1652_master/GazetaCFN1652.pdf",
+                "start_date": "1856-10-28",
+                "tracks": "1",
+                "usage": "main",
+                "voltage": "25000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.11139279634,
+                        38.71730916412
+                    ],
+                    [
+                        -9.11133909634,
+                        38.71735896166
+                    ],
+                    [
+                        -9.11035369634,
+                        38.71823711827
+                    ],
+                    [
+                        -9.10934299634,
+                        38.71917527193
+                    ],
+                    [
+                        -9.10899949634,
+                        38.71947525711
+                    ],
+                    [
+                        -9.10874469634,
+                        38.71973574424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/8136802",
+                "axle_load": "22.5",
+                "electrified": "contact_line",
+                "frequency": "50",
+                "gauge": "1668",
+                "highspeed": "no",
+                "loading_gauge": "CPb+",
+                "maxspeed": "30",
+                "metre_load": "8",
+                "name": "Linha do Norte - Via Ascendente",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "passenger_lines": "2",
+                "railway": "rail",
+                "railway:atc": "yes",
+                "railway:ballastless": "no",
+                "railway:ebicab": "700",
+                "railway:etcs": "no",
+                "railway:tilting": "no",
+                "railway:traffic_mode": "mixed",
+                "ref": "8",
+                "source": "https://servicos.infraestruturasdeportugal.pt/sites/default/files/inline-files/Diretorio%20da%20Rede%202024.pdf",
+                "source:maxspeed": "TVM",
+                "source:maxspeed:date": "2021-01-27",
+                "source:start_date": "https://hemerotecadigital.cm-lisboa.pt/OBRAS/GazetaCF/1956/N1652/N1652_master/GazetaCFN1652.pdf",
+                "start_date": "1856-10-28",
+                "tracks": "1",
+                "usage": "main",
+                "voltage": "25000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.10807169634,
+                        38.72035981340
+                    ],
+                    [
+                        -9.10769109634,
+                        38.72070479636
+                    ],
+                    [
+                        -9.10739559634,
+                        38.72097588297
+                    ],
+                    [
+                        -9.10690909634,
+                        38.72141976104
+                    ],
+                    [
+                        -9.10636719634,
+                        38.72191493657
+                    ],
+                    [
+                        -9.10623369634,
+                        38.72204003039
+                    ],
+                    [
+                        -9.10611929634,
+                        38.72215082492
+                    ],
+                    [
+                        -9.10599689634,
+                        38.72227231891
+                    ],
+                    [
+                        -9.10585679634,
+                        38.72241861168
+                    ],
+                    [
+                        -9.10573219634,
+                        38.72255220508
+                    ],
+                    [
+                        -9.10560979634,
+                        38.72268969829
+                    ],
+                    [
+                        -9.10550279634,
+                        38.72281559207
+                    ],
+                    [
+                        -9.10538519634,
+                        38.72295488519
+                    ],
+                    [
+                        -9.10500989634,
+                        38.72341396251
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1206687493",
+                "axle_load": "22.5",
+                "electrified": "contact_line",
+                "frequency": "50",
+                "gauge": "1668",
+                "highspeed": "no",
+                "loading_gauge": "CPb+",
+                "maxspeed": "30",
+                "metre_load": "8",
+                "name": "Linha do Norte - Via Ascendente",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "passenger_lines": "2",
+                "railway": "rail",
+                "railway:atc": "yes",
+                "railway:ballastless": "no",
+                "railway:ebicab": "700",
+                "railway:etcs": "no",
+                "railway:tilting": "no",
+                "railway:traffic_mode": "mixed",
+                "ref": "8",
+                "source": "https://servicos.infraestruturasdeportugal.pt/sites/default/files/inline-files/Diretorio%20da%20Rede%202024.pdf",
+                "source:maxspeed": "TVM",
+                "source:maxspeed:date": "2021-01-27",
+                "source:start_date": "https://hemerotecadigital.cm-lisboa.pt/OBRAS/GazetaCF/1956/N1652/N1652_master/GazetaCFN1652.pdf",
+                "start_date": "1856-10-28",
+                "tracks": "1",
+                "usage": "main",
+                "voltage": "25000"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.10874469634,
+                        38.71973574424
+                    ],
+                    [
+                        -9.10865169634,
+                        38.71982783969
+                    ],
+                    [
+                        -9.10856539634,
+                        38.71990853570
+                    ],
+                    [
+                        -9.10843949634,
+                        38.72002562991
+                    ]
+                ]
+            }
+        }
+    ]
+}
